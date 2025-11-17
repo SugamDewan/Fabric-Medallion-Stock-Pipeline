@@ -38,7 +38,7 @@ The Gold layer creates highly refined, aggregated tables that are optimized for 
 
 The final Gold table was connected to Power BI using **DirectLake mode** to create a simple line chart that visualizes the 5-minute average price trend.
 
-*(Make sure the filename here matches the name of your uploaded screenshot!)*
+
 ![Dashboard Screenshot](powerbi-screenshot.png)
 
 ## Key Learnings
